@@ -97,7 +97,7 @@ Classes:
 ---
 
 ## Results (Best Model)
-The best performance is achieved using **VGG16 with data augmentation**:
+The best performance is achieved using **VGG16 without data augmentation**:
 
 - **Accuracy**: **91.23%**
 - Improved performance across all tumor classes
