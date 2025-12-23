@@ -1,0 +1,25 @@
+# Data 
+brain-tumor-mri-dataset/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Outputs
+results/
+models/
+logs/
+*.h5
+*.pt
+*.pth
